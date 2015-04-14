@@ -21,11 +21,11 @@ else
 fi
 
 # for test
-echo $(pwd)
+# echo $(pwd)
 
 ti=`date "+%F"`
 na="$(uname -r)""-${ti}-system-bak.tar.bz2"
-echo $na
+# echo $na
 log="$(uname -r)""-${ti}.log"
 echo "Start time: $(date +%Y-%m-%d-%H:%M:%S)" >> $log 
 
