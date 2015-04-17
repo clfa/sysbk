@@ -1,7 +1,7 @@
 ﻿#!/bin/bash
 # The script aids to backup system and important configure files. 
-# Author:feng 
-# Email:fenggee007@163.com 
+# Author:safesky 
+# Email:safesky@163.com 
 # Time: 2015-04-14
 
 home="example"
